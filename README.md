@@ -1,4 +1,6 @@
 # MQTTBox
+#### !!! The project is being rebuilt. The original repository is incompatible with Apple silicon and hasn’t been updated in over 10 year.
+
 #### Developers helper program to create and test MQTT connectivity protocol.
 Supercharge your MQTT workflow with MQTTBox Apps available on Chrome, Linux, Mac, Web and Windows! Build, test, and document your MQTT connectivity protocol.
 
